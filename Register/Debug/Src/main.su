@@ -1,0 +1,11 @@
+C:/Users/Ali/Desktop/Register/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+C:/Users/Ali/Desktop/Register/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+../Src/main.c:25:28:_close	4	static
+../Src/main.c:26:28:_lseek	4	static
+../Src/main.c:27:28:_read	4	static
+../Src/main.c:28:28:_write	4	static
+../Src/main.c:31:6:GPIO_CONFIG	4	static
+../Src/main.c:44:6:interrupt_config	8	static
+../Src/main.c:60:6:EXTI0_IRQHandler	4	static
+../Src/main.c:72:6:delay	16	static
+../Src/main.c:78:5:main	8	static

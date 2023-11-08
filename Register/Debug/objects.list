@@ -1,0 +1,4 @@
+"./Src/main.o"
+"./Src/system_stm32f4xx.o"
+"./Startup/startup_stm32f429xx.o"
+"./prepherals/src/clock.o"

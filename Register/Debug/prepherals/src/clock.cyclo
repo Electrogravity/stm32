@@ -1,0 +1,8 @@
+C:/Users/Ali/Desktop/Register/CMSIS/Include/core_cm4.h:1777:22:__NVIC_ClearPendingIRQ	2
+C:/Users/Ali/Desktop/Register/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	2
+../prepherals/src/clock.c:11:6:clock_config	4
+../prepherals/src/clock.c:63:6:clock_Systickconfig	1
+../prepherals/src/clock.c:86:6:clock_msinitticks	1
+../prepherals/src/clock.c:90:11:clock_msgetticks	1
+../prepherals/src/clock.c:94:6:clock_msdelay	2
+../prepherals/src/clock.c:100:6:systick_handeler	1
